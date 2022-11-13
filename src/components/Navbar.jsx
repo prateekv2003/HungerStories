@@ -51,7 +51,7 @@ const Navbar = () => {
                     className='absolute right-4 top-4 cursor-pointer'
                 />
                 <h2 className='text-2xl p-4'>
-                    Best <span className='font-bold'>Eats</span>
+                Hunger <span className='font-bold'>Stories</span>
                 </h2>
                 <nav>
                     <ul className='flex flex-col p-4 text-gray-800'>

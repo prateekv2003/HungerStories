@@ -9,6 +9,10 @@
   }
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   background-image: url("./assets/bg2.jpg");
   background-color: #97979724;

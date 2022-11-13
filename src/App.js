@@ -4,6 +4,7 @@ import Food from "./components/Food";
 import HeadlineCards from "./components/HeadlineCards";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Footer from "./components/footer/Footer"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <HeadlineCards/>
       <Food/>
       <Category/>
+      <Footer/>
     </div>
   );
 }

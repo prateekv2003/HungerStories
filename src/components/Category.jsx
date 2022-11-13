@@ -3,7 +3,7 @@ import { categories } from '../data/data.js';
 
 const Category = () => {
   return (
-    <div className='max-w-[1640px] m-auto px-4 py-12'>
+    <div id="category" className='max-w-[1640px] m-auto px-4 py-12'>
       <h1 className='text-orange-600 font-bold text-4xl text-center'>
         Top Rated Menu Items
       </h1>
@@ -12,7 +12,7 @@ const Category = () => {
         {categories.map((item, index) => (
           <div
             key={index}
-            className='bg-gray-100 rounded-lg p-4 flex justify-between items-center'
+            className='bg-gray-100 rounded-lg p-4 flex justify-between items-center hover:scale-105 duration-150'
           >
             <h2 className='font-bold sm:text-xl'>{item.name}</h2>
             <img src={item.image} alt={item.name} className='w-20' />
