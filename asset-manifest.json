@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HungerStories/static/css/main.0103ee0d.css",
-    "main.js": "/HungerStories/static/js/main.d494dbf4.js",
+    "main.css": "/HungerStories/static/css/main.668b4768.css",
+    "main.js": "/HungerStories/static/js/main.77de5d36.js",
     "static/media/bg2.jpg": "/HungerStories/static/media/bg2.2990cc14d7282f72aec2.jpg",
     "index.html": "/HungerStories/index.html",
-    "main.0103ee0d.css.map": "/HungerStories/static/css/main.0103ee0d.css.map",
-    "main.d494dbf4.js.map": "/HungerStories/static/js/main.d494dbf4.js.map"
+    "main.668b4768.css.map": "/HungerStories/static/css/main.668b4768.css.map",
+    "main.77de5d36.js.map": "/HungerStories/static/js/main.77de5d36.js.map"
   },
   "entrypoints": [
-    "static/css/main.0103ee0d.css",
-    "static/js/main.d494dbf4.js"
+    "static/css/main.668b4768.css",
+    "static/js/main.77de5d36.js"
   ]
 }
