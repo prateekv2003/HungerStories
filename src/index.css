@@ -18,3 +18,7 @@ body{
   background-color: #97979724;
   background-blend-mode: darken;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
